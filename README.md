@@ -8,7 +8,7 @@
 ## 项目结构
 
 - README.md：本项目的说明文件
-- application.properties：项目依赖和脚本配置文件
+- application.properties：项目配置文件
 - src/：源代码目录。
    - TodoController.java：待办事项管理控制层
    - TodoService.java：待办事项管理服务层
