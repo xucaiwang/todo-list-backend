@@ -12,7 +12,6 @@
 - src/：源代码目录。
    - TodoController.java：待办事项管理控制层
    - TodoService.java：待办事项管理服务层
-   - TodoService.java：待办事项管理服务层
    - TodoRepository.java：待办事项管理数据操作层
    - Todo.java：待办事项实体类
    - TodolistApplication.java：应用程序主入口
